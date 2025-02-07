@@ -1,6 +1,17 @@
+[Comment: Header]: #
+
+# *Hi I'm Duvan Cardozo*
+
+[![Logo_Github]][Url_Git]
+[![Logo_Gmail]][Url_Gmail]
+[![Logo_Linkedin]][Url_Linkedin]
+[![Logo_whatsapp]][Url_whatsapp]
+
+I am a web developer and project leader with extensive experience in multiple programming languages.
+
 
 <div align="center">
-  <h1 align="center">👋 Hi, I’m Duvan Cardozo</h1>
+  <h1 align="center"></h1>
 
   <details open>
     <summary align="left">
@@ -184,3 +195,17 @@
 </details>
 
 ---
+[Comment: Logo]: #
+
+[Logo_Github]: https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white
+[Logo_Gmail]: https://img.shields.io/badge/-fc089609@gmail.com-000?style=flat-square&logo=gmail
+[Logo_Linkedin]: https://img.shields.io/badge/-Linkedin-000?style=flat-square&logo=linkedin
+[Logo_stackoverflow]: https://img.shields.io/badge/-StackOverflow-000?style=flat-square&logo=stackoverflow
+[Logo_whatsapp]: https://img.shields.io/badge/-WhatsApp-000?style=flat-square&logo=whatsapp
+
+[Comment: Url]: #
+
+[Url_Git]: https://github.com/duvancardozo18
+[Url_Gmail]: mailto:duvanestivencardozo"gmail.com
+[Url_Linkedin]: https://www.linkedin.com/in/duban-estiben-cardozo-osorio-04a0a5240/
+[Url_whatsapp]: https://wa.me/573224671853
