@@ -1,4 +1,4 @@
-# duvancardozo18
+
 <div align="center">
   <h1 align="center">👋 Hi, I’m Duvan Cardozo</h1>
 
@@ -51,17 +51,23 @@
   <p align="center">
 
 - **Languages**:
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   
 
 - **Full Stack Development**:
+
   ![Laravel](https://img.shields.io/badge/Laravel%20-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%ff2d20)
-  ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
   ![MySQL](https://img.shields.io/badge/MySQL%20-%234169E1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -163,7 +169,7 @@
           height="30"/>
       </a>
       <a 
-        href="duvanestivencardozo@gmail.com"
+        href="mailto:duvanestivencardozo@gmail.com"
         title="Gmail"
         target="_blank"
         rel="noopener noreferrer">
