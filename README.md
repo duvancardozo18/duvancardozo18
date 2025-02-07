@@ -25,7 +25,7 @@ I am a web developer and project leader with extensive experience in multiple pr
       <span>ABOUT</span>
     </summary>
     <h4 align="center">
-      Software Developer |
+      Software Engineer - Full Stack Developer |
       <a
         href="#"
         title="Portfolio"
@@ -198,7 +198,7 @@ I am a web developer and project leader with extensive experience in multiple pr
 [Comment: Logo]: #
 
 [Logo_Github]: https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white
-[Logo_Gmail]: https://img.shields.io/badge/-fc089609@gmail.com-000?style=flat-square&logo=gmail
+[Logo_Gmail]: https://img.shields.io/badge/-duvanestivencardozo@gmail.com-000?style=flat-square&logo=gmail
 [Logo_Linkedin]: https://img.shields.io/badge/-Linkedin-000?style=flat-square&logo=linkedin
 [Logo_stackoverflow]: https://img.shields.io/badge/-StackOverflow-000?style=flat-square&logo=stackoverflow
 [Logo_whatsapp]: https://img.shields.io/badge/-WhatsApp-000?style=flat-square&logo=whatsapp
