@@ -8,7 +8,6 @@
 [![Logo_whatsapp]][Url_whatsapp]
 
 Soy Ingeniero y Tecnólogo en Software con mas de 5 años de experiencia como desarrollador Full Stack, participando en todo el ciclo de vida del software, desde el análisis y diseño hasta la implementación y el mantenimiento.
-
 He liderado proyectos de desarrollo de software, gestionando equipos y asegurando la entrega de soluciones eficientes y escalables.
 
 
@@ -28,13 +27,7 @@ He liderado proyectos de desarrollo de software, gestionando equipos y asegurand
     </summary>
     <h4 align="center">
       Software Engineer - Full Stack Developer |
-      <a
-        href="https://duvan-cardozo.vercel.app"
-        title="Portfolio"
-        target="_blank"
-        rel="noopener noreferrer">
-        Personal Web
-      </a>
+      [Personal Web](https://duvan-cardozo.vercel.app)
     </h4>
   </details>
 
@@ -64,6 +57,7 @@ He liderado proyectos de desarrollo de software, gestionando equipos y asegurand
   
 
 - **Full Stack Development**:
+
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   ![Laravel](https://img.shields.io/badge/Laravel%20-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%ff2d20)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
