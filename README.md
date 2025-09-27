@@ -7,7 +7,9 @@
 [![Logo_Linkedin]][Url_Linkedin]
 [![Logo_whatsapp]][Url_whatsapp]
 
-I am a web developer and project leader with extensive experience in multiple programming languages.
+Soy Ingeniero y Tecnólogo en Software con mas de 5 años de experiencia como desarrollador Full Stack, participando en todo el ciclo de vida del software, desde el análisis y diseño hasta la implementación y el mantenimiento.
+
+He liderado proyectos de desarrollo de software, gestionando equipos y asegurando la entrega de soluciones eficientes y escalables.
 
 
 <div align="center">
@@ -27,20 +29,12 @@ I am a web developer and project leader with extensive experience in multiple pr
     <h4 align="center">
       Software Engineer - Full Stack Developer |
       <a
-        href="#"
+        href="https://duvan-cardozo.vercel.app"
         title="Portfolio"
         target="_blank"
         rel="noopener noreferrer">
         Personal Web
       </a>
-      |
-      <a
-        href="#"
-        title="Curriculum"
-        target="_blank"
-        rel="noopener noreferrer">
-          Curriculum
-        </a>
     </h4>
   </details>
 
@@ -66,21 +60,27 @@ I am a web developer and project leader with extensive experience in multiple pr
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white)
   
 
 - **Full Stack Development**:
-
-  ![Laravel](https://img.shields.io/badge/Laravel%20-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%ff2d20)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![Laravel](https://img.shields.io/badge/Laravel%20-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%ff2d20)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 
   ![MySQL](https://img.shields.io/badge/MySQL%20-%234169E1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
   </p>
 </details>
@@ -169,7 +169,7 @@ I am a web developer and project leader with extensive experience in multiple pr
           height="30"/>
       </a>
       <a 
-        href="#"
+        href="https://duvan-cardozo.vercel.app"
         title="Personal Web"
         target="blank"
         rel="noopener noreferrer">
