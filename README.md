@@ -141,9 +141,13 @@ He liderado proyectos de desarrollo de software, gestionando equipos y asegurand
   </summary>
   <div>
     
-- [AudiosPlay](https://audiosplay.com/)
+
 - [ArrozIA - Frontend](https://github.com/duvancardozo18/ArrozIA-frontend-web)
 - [ArrozIA - Backend](https://github.com/duvancardozo18/ArrozIA-backend)
+- [AudiosPlay](https://github.com/duvancardozo18/AudiosPlay)
+- [EventMol - Frontend](https://github.com/duvancardozo18/EventMol-frontend)
+- [EventMol - Backend](https://github.com/duvancardozo18/EventMol-backend)
+- [EventMol - Movil](https://github.com/duvancardozo18/EventMol-movil)
 
   </div>
 </details>
