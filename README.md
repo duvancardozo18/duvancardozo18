@@ -28,7 +28,7 @@ He liderado proyectos de desarrollo de software, gestionando equipos y asegurand
     <h4 align="center">
       Software Engineer - Full Stack Developer |
       <a
-        href="https://duvan-cardozo.vercel.app"
+        href="https://duvancardozo.space"
         title="Portfolio"
         target="_blank"
         rel="noopener noreferrer">
@@ -173,7 +173,7 @@ He liderado proyectos de desarrollo de software, gestionando equipos y asegurand
           height="30"/>
       </a>
       <a 
-        href="https://duvan-cardozo.vercel.app"
+        href="https://duvancardozo.space"
         title="Personal Web"
         target="blank"
         rel="noopener noreferrer">
