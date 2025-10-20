@@ -7,7 +7,7 @@
 [![Logo_Linkedin]][Url_Linkedin]
 [![Logo_whatsapp]][Url_whatsapp]
 
-Soy Ingeniero en Software con mas de 5 años de experiencia como desarrollador Full Stack, participando en todo el ciclo de vida del software, desde el análisis y diseño hasta la implementación y el mantenimiento.
+Soy Ingeniero de Software con mas de 5 años de experiencia como desarrollador Full Stack, participando en todo el ciclo de vida del software, desde el análisis y diseño hasta la implementación y el mantenimiento.
 He liderado proyectos de desarrollo de software, gestionando equipos y asegurando la entrega de soluciones eficientes y escalables.
 
 
